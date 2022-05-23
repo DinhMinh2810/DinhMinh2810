@@ -36,7 +36,7 @@
 ## 🙌 Connect with me
 <p align="center"> 
     <a href = "https://www.linkedin.com/in/tran-dinh-minh-3b003b227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://www.facebook.com/trandinhminh123/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://www.facebook.com/trandinhminh123/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
     <a href = "https://www.instagram.com/_iam._edenminminn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.youtube.com/channel/UCkyUAXDPZkH60-0UkOTuA4A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
