@@ -27,12 +27,12 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://next.js.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"/ width="48" height="48"> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=CkqCeRw5yVSg&format=png&color=000000" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>       </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/> </a> 
 </p>
 
 
@@ -41,6 +41,6 @@
 <p align="center"> 
     <a href = "https://www.linkedin.com/in/tran-dinh-minh-3b003b227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://www.facebook.com/trandinhminh123/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-    <a href = "https://www.instagram.com/_iam._edenminminn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "[https://www.instagram.com/_iam._edenminminn/](https://www.instagram.com/mason._minn/)"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.youtube.com/channel/UCkyUAXDPZkH60-0UkOTuA4A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
