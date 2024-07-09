@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tran Dinh Minh 👱‍♂️</h1>
-<h3 align="center">I'm a Software Engineer from Vietnam.</h3>
+<h3 align="center">I'm a Web Developer from Vietnam.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Front-End**
+- 🌱 I’m using **ReactJS** and **ASP.NET**
 
 - 👯 I'm looking for a professional company to improve myselfs
 
